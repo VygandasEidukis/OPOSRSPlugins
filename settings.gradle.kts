@@ -25,7 +25,7 @@
 
 rootProject.name = "OpenOSRS Plugins"
 
-include(":javaexample")
+include(":pkauras")
 
 for (project in rootProject.children) {
     project.apply {

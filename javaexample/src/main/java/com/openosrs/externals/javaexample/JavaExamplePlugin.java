@@ -1,4 +1,4 @@
-package com.example.javaexample;
+package com.openosrs.externals.pkauras;
 
 import com.google.inject.Provides;
 import javax.inject.Inject;
